@@ -14,7 +14,7 @@
 }
 
 .campus_maindiv{
-    border: 4px dashed lightblue;
+    border: 4px dashed gold;
     padding: 10px;
 }
 
@@ -22,3 +22,18 @@
     width: 450px;
 
 }
+
+.movie_head{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+
+.movie_head2{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
